@@ -86,6 +86,12 @@ https://noon-blizzard-1ca.notion.site/N-1-25825c4dfa9f80adae64e6f9ba4537a4?sourc
 또한 `EAGER` 로딩의 경우 접근 여부와 상관없이 쿼리를 추가 실행하기 때문에 쿼리 최적화 제어권을 개발자가 갖기 어렵습니다.<br>
 이러한 이유로 대부분의 상황에서는 연관관계의 페치 타입을 `LAZY`로 두는 것이 안전하고 예측 가능하다고 볼 수 있겠습니다.
 
+---
+
+<br> **관련작성 글**
+
+[쿼리지옥 JPA의 N+1 문제를 둘러싼 오해들](https://luti-dev.tistory.com/18)
+
 <br>
 
 
