@@ -88,7 +88,7 @@ https://noon-blizzard-1ca.notion.site/N-1-25825c4dfa9f80adae64e6f9ba4537a4?sourc
 
 ---
 
-<br> **관련작성 글**
+<br> **관련 작성 글**
 
 [쿼리지옥 JPA의 N+1 문제를 둘러싼 오해들](https://luti-dev.tistory.com/18)
 
